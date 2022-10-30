@@ -23,7 +23,7 @@ class CronJob extends \Daycry\CronJob\Config\CronJob
     | 'database'  Save in database
     |
     */
-    public string $logSavingMethod = 'file';
+    public string $logSavingMethod = 'database';
 
     /**
      * Directory
@@ -83,7 +83,7 @@ class CronJob extends \Daycry\CronJob\Config\CronJob
         $schedule->command('app:info')->everyMinute();
 
         // $schedule->shell('cp foo bar')->daily( '11:00 pm' );
-        $schedule->shell('php C:\appStore\CI4\cronjob\public\index.php tasks')->everyMinute();
+        $schedule->shell('php C:\appStore\CI4\cronjob-ci4\public\index.php tasks')->everyMinute();
 
         // $schedule->call( function() { do something.... } )->everyMonday()->named( 'foo' )
     }

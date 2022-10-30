@@ -49,6 +49,15 @@ Then you can adjust it to your needs. By default file will be present in `app/Co
     > php spark migrate -all
 This command create rest server tables in your database.
 
+    > php spark cronjob:enable
+This command use to enable the cronjob service.
+
+    > php spark cronjob:list
+This command use display the job list of actions.
+
+## Fix and issue in Daycry\CronJob\Job
+change `protected string $name` to `protected ?string $name= NULL;` to provide an issue in php7.4
+
 ## Starting the Scheduler
 
 You only need to add a single line to your cronjob: 

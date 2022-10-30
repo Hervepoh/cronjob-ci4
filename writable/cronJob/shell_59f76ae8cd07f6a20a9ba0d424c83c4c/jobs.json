@@ -1,0 +1,14 @@
+[
+    {
+        "name": "shell_59f76ae8cd07f6a20a9ba0d424c83c4c",
+        "type": "shell",
+        "action": "php C:\\appStore\\CI4\\cronjob-ci4\\public\\index.php tasks",
+        "environment": "[]",
+        "start_at": "2022-10-30 08:46:25",
+        "end_at": "2022-10-30 08:46:26",
+        "duration": "00:00:00",
+        "output": "",
+        "error": "null",
+        "test_time": null
+    }
+]

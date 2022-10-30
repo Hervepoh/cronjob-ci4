@@ -1,0 +1,38 @@
+[
+    {
+        "name": "shell_8b9d8478e778fdb08936d12d0d6b502d",
+        "type": "shell",
+        "action": "php C:\\appStore\\CI4\\cronjob\\public\\index.php tasks",
+        "environment": "[]",
+        "start_at": "2022-10-30 08:45:11",
+        "end_at": "2022-10-30 08:45:11",
+        "duration": "00:00:00",
+        "output": "",
+        "error": "null",
+        "test_time": null
+    },
+    {
+        "name": "shell_8b9d8478e778fdb08936d12d0d6b502d",
+        "type": "shell",
+        "action": "php C:\\appStore\\CI4\\cronjob\\public\\index.php tasks",
+        "environment": "[]",
+        "start_at": "2022-10-30 08:44:44",
+        "end_at": "2022-10-30 08:44:44",
+        "duration": "00:00:00",
+        "output": "",
+        "error": "null",
+        "test_time": null
+    },
+    {
+        "name": "shell_8b9d8478e778fdb08936d12d0d6b502d",
+        "type": "shell",
+        "action": "php C:\\appStore\\CI4\\cronjob\\public\\index.php tasks",
+        "environment": "[]",
+        "start_at": "2022-10-30 08:42:16",
+        "end_at": "2022-10-30 08:42:16",
+        "duration": "00:00:00",
+        "output": "",
+        "error": "null",
+        "test_time": null
+    }
+]

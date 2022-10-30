@@ -1,0 +1,38 @@
+[
+    {
+        "name": "command_5942290b0c3c3e58b96843e0d5fdb96b",
+        "type": "command",
+        "action": "app:info",
+        "environment": "[]",
+        "start_at": "2022-10-30 08:46:25",
+        "end_at": "2022-10-30 08:46:25",
+        "duration": "00:00:00",
+        "output": "",
+        "error": "null",
+        "test_time": null
+    },
+    {
+        "name": "command_5942290b0c3c3e58b96843e0d5fdb96b",
+        "type": "command",
+        "action": "app:info",
+        "environment": "[]",
+        "start_at": "2022-10-30 08:45:11",
+        "end_at": "2022-10-30 08:45:11",
+        "duration": "00:00:00",
+        "output": "",
+        "error": "null",
+        "test_time": null
+    },
+    {
+        "name": "command_5942290b0c3c3e58b96843e0d5fdb96b",
+        "type": "command",
+        "action": "app:info",
+        "environment": "[]",
+        "start_at": "2022-10-30 08:44:44",
+        "end_at": "2022-10-30 08:44:44",
+        "duration": "00:00:00",
+        "output": "",
+        "error": "null",
+        "test_time": null
+    }
+]
